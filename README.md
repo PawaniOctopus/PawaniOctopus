@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @PawaniOctopus
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there, I'm Pawani Perera! 👋
 
-<!---
-PawaniOctopus/PawaniOctopus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+
+- 💼 Currently working as QA intern at OctopusBI.
+- 🎓 Undergraduate at SLIIT.
+
+## Skills
+
+- 💻 Programming Languages: Java, React js, Node js
+- 🛠️ Technologies & Tools: Git, Postman, Jupiter Notebook
+
+## GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&hide=contribs)
+
+
