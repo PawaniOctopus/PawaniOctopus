@@ -10,6 +10,8 @@
 - 💻 Programming Languages: Java, React js, Node js
 - 🛠️ Technologies & Tools: Git, Postman, Jupiter Notebook
 
+- ![Profile Image](https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif)
+
 ## GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&hide=contribs)
