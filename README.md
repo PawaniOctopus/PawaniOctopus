@@ -3,9 +3,9 @@
 
 ## About Me
 
-- 💼 Currently working as QA intern at OctopusBI.
-- 🎓 Undergraduate at SLIIT.
-
+- 💼 Currently working as an Associate QA Engineer at OctopusBI.
+- 🎓 SE Graduate.
+  
 ## Skills
 
 - 💻 Programming Languages: Java, React js, Node js
